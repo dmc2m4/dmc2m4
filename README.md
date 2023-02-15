@@ -24,7 +24,7 @@ Mis principales habilidades son la capacidad de analisis y solución de problema
 
 ---
 
-# Habilidades tecnicas
+# Habilidades técnicas
 
 Mis habilidades técnicas incluyen las siguientes:
 
