@@ -3,7 +3,7 @@
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400" height="200">
 </div>
 
-<h1 align="center">Hola, soy Daniel 👋</h1>
+<h1 align="center">DANIEL MARTINEZ</h1>
 
 Full Stack Developer con experiencia en tecnologoías como JavaScript, React JS, Node JS, Express JS y PostgresSQL. Estoy interesado en seguir aprendiendo más sobre nuevas tecnologías y adquirir habilidades que me conviertan no solo en un mejor profesional sino también en una mejor persona.
 Mis principales habilidades son la capacidad de analisis y solución de problemas, disposición de trabajo en equipo y capacidad de aprendizaje.
