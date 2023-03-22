@@ -5,28 +5,26 @@
 
 <h1 align="center">DANIEL MARTINEZ</h1>
 
-Full Stack Developer con experiencia en tecnologoías como JavaScript, React JS, Node JS, Express JS y PostgresSQL. Estoy interesado en seguir aprendiendo más sobre nuevas tecnologías y adquirir habilidades que me conviertan no solo en un mejor profesional sino también en una mejor persona.
-Mis principales habilidades son la capacidad de analisis y solución de problemas, disposición de trabajo en equipo y capacidad de aprendizaje.
+Full Stack Developer with focus on back-end and experience in technologies like JavaScript, React JS, Node JS, Express JS, PostgresSQL, MongoDB, Ruby and Ruby on rails. I'm interested in learning more about the world of technology and developing my skills to become a better person and a better professional.
+My main skills are the ability to analyze and solve problems, willingness to work in a team, and learning ability
 
 
+# 💥 Qualities
 
-# 💥 Cualidades
-
-- 🕵️‍♂️ Solución de problemas: Buscar la mejor solución tanto para el cliente como para el equipo de trabajo.
-- 💬 Pensamiento crítico: Analisis detallado de cualquier evento que se me presente.
-- 🏃 Proactividad: Intentar ir siempre un paso adelante de lo que se me pide.
-- 👨‍🦯 Empatia: Ponerme en la situación de las otras personas antes de realizar cualquier comentario.
-- 🏋️‍♂️ Perseverancia: Si me caigo mil veces, esas mismas veces me levanto y sigo luchando por los objetivos.
-- 📢 Liderazgo: Tengo la capacidad de organizar un equipo y empatizar con cada uno de los integrantes.
-- 🚴 Flexibilidad: Capacidad para adaptarme a cualquier equipo y cualquier función dentro del equipo.
-- 🤓 Aprendizaje rápido: Puedo aprender conceptos nuevos de manera efectiva.
+🕵️‍♂️ Problem solving: Finding the best solution for both the client and the team.
+💬 Critical thinking: Detailed analysis of any event that comes my way.
+🏃 Proactivity: Trying to always be one step ahead of what is asked of me.
+👨‍🦯 Empathy: Putting myself in other people's shoes before making any comments.
+🏋️‍♂️ Perseverance: If I fall a thousand times, I will stand up and keep fighting for the objectives.
+📢 Leadership: I have the ability to organize a team and empathize with each of the members.
+🚴 Flexibility: Ability to adapt to any team and any function within the team.
+🤓 Fast learning: I can effectively learn new concepts."
 
 
 ---
 
-# Habilidades técnicas
+# Tech Skills
 
-Mis habilidades técnicas incluyen las siguientes:
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -47,7 +45,7 @@ Mis habilidades técnicas incluyen las siguientes:
   
  
   
-  # Actualmente me encuentro aprendiendo:
+  # I am currently learning the following technologies:
    
 <div align="center"> 
  <a href="https://www.ruby-lang.org/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="TypeScript" height="50" /></a>   
@@ -56,7 +54,7 @@ Mis habilidades técnicas incluyen las siguientes:
   
   </div>
   
-## 📫 Contactame:
+## 📫 Contact me:
   
   <a href="https://www.linkedin.com/in/daniel-martinez-cabrera-0b6294109/">
  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square2-512.png" style="filter: hue-rotate(180deg); height:50px; width:50px;">
@@ -67,6 +65,6 @@ Mis habilidades técnicas incluyen las siguientes:
 </a>
 
 
-## 📊 Mis estadisticas:
+## 📊 My stats:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dmc2m4&show_icons=true&theme=radical)]
