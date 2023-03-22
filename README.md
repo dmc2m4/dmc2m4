@@ -11,6 +11,7 @@ My main skills are the ability to analyze and solve problems, willingness to wor
 
 # 💥 Qualities
 
+
 🕵️‍♂️ Problem solving: Finding the best solution for both the client and the team.
 💬 Critical thinking: Detailed analysis of any event that comes my way.
 🏃 Proactivity: Trying to always be one step ahead of what is asked of me.
@@ -19,7 +20,6 @@ My main skills are the ability to analyze and solve problems, willingness to wor
 📢 Leadership: I have the ability to organize a team and empathize with each of the members.
 🚴 Flexibility: Ability to adapt to any team and any function within the team.
 🤓 Fast learning: I can effectively learn new concepts."
-
 
 ---
 
