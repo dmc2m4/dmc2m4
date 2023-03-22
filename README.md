@@ -11,15 +11,20 @@ My main skills are the ability to analyze and solve problems, willingness to wor
 
 # 💥 Qualities
 
+<div>
+<ul>
+<li>🕵️‍♂️ Problem solving: Finding the best solution for both the client and the team.</li>
+<li>💬 Critical thinking: Detailed analysis of any event that comes my way.</li>
+<li>🏃 Proactivity: Trying to always be one step ahead of what is asked of me.</li>
+<li>👨‍🦯 Empathy: Putting myself in other people's shoes before making any comments.</li>
+<li>🏋️‍♂️ Perseverance: If I fall a thousand times, I will stand up and keep fighting for the objectives.</li>
+<li>📢 Leadership: I have the ability to organize a team and empathize with each of the members.</li>
+<li>🚴 Flexibility: Ability to adapt to any team and any function within the team.</li>
+<li>🤓 Fast learning: I can effectively learn new concepts."</li>
+</ul>
+</div>
 
-🕵️‍♂️ Problem solving: Finding the best solution for both the client and the team.
-💬 Critical thinking: Detailed analysis of any event that comes my way.
-🏃 Proactivity: Trying to always be one step ahead of what is asked of me.
-👨‍🦯 Empathy: Putting myself in other people's shoes before making any comments.
-🏋️‍♂️ Perseverance: If I fall a thousand times, I will stand up and keep fighting for the objectives.
-📢 Leadership: I have the ability to organize a team and empathize with each of the members.
-🚴 Flexibility: Ability to adapt to any team and any function within the team.
-🤓 Fast learning: I can effectively learn new concepts."
+
 
 ---
 
