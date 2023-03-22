@@ -61,7 +61,7 @@ My main skills are the ability to analyze and solve problems, willingness to wor
   
 ## 📫 Contact me:
   
-  <a href="https://www.linkedin.com/in/daniel-martinez-cabrera-0b6294109/">
+  <a href="https://www.linkedin.com/in/daniel-martinez-0b6294109/">
  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square2-512.png" style="filter: hue-rotate(180deg); height:50px; width:50px;">
 </a>
 
